@@ -16,7 +16,7 @@
 
 </div><br/>
 
-Cursando Desenvolvimento Back-end.<br/> Apaixonado por tecnologia, ciência e inovação.
+Cursando Desenvolvimento Back-end.<br/> Transformando linhas de código em soluções criativas e funcionais.
 
 ## Email para Contato:
 - [silvamavillycaval@gmail.com]
