@@ -17,7 +17,6 @@
 Cursando Desenvolvimento Back-end.<br/> Apaixonado por tecnologia, educação e ciência.
 
 ## Email para Contato:
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvamavillycaval@gmail.com)
-
+- [silvamavillycaval@gmail.com]
 
 
